@@ -1,0 +1,135 @@
+body.lightmode {
+  color: #333333;
+  background-color: #ffffff;
+}
+
+.lightmode a {
+  color: #4D4D4D;
+}
+.lightmode h1, .lightmode h2 {
+  color: #333333 !important;
+}
+.lightmode .logo {
+  color: #1ed75f;
+}
+.lightmode .btn {
+  color: #808080;
+}
+.lightmode .btn.btn-black {
+  background: #1ed75f;
+  box-shadow: inset 0 0 0 2px #1DB954;
+}
+.lightmode .btn.btn-green {
+  color: #ffffff;
+}
+.lightmode li.tracklist-row .tracklist-name, .lightmode li.tracklist-row .track-name-wrapper, .lightmode li.tracklist-row .TrackListRow__episode-release-date, .lightmode li.tracklist-row .tracklist-row, .lightmode li.tracklist-row .tracklist-duration, .lightmode li.tracklist-row .tracklist-row, .lightmode li.tracklist-row .position, .lightmode li.tracklist-row .tracklist-play-pause, .lightmode li.tracklist-row .tracklist-row__album-name-link, .lightmode li.tracklist-row .tracklist-row__artist-name-link, .lightmode li.tracklist-row .second-line-separator {
+  color: #333333;
+}
+.lightmode li.tracklist-row .TrackListRow__artists.ellipsis-one-line, .lightmode li.tracklist-row .TrackListRow__album.ellipsis-one-line {
+  color: #999999;
+}
+.lightmode li.tracklist-row .TrackListRow__explicit-label {
+  background-color: #E5E5E5;
+}
+.lightmode .link-subtle {
+  color: #808080;
+}
+.lightmode .link-subtle:focus, .lightmode .link-subtle:hover {
+  color: #000000;
+}
+.lightmode .dialog {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.lightmode .TrackListHeader, .lightmode .TrackListHeader .mo-info-name, .lightmode .TrackListHeader__entity-by, .lightmode .TrackListHeader__entity-dailymix-made-for, .lightmode .TrackListHeader__text-silence {
+  color: #333333 !important;
+}
+.lightmode #main .Root ._0efd6b9f9de35e4d1fe896fe2ce5c17c-scss {
+  background-image: linear-gradient(to left top, white, #f0f5fa), linear-gradient(transparent, black 90%) !important;
+}
+.lightmode #main .Root ._5658c6accf868644593ce36887a475b1-scss {
+  background-color: #F8F8F8;
+}
+.lightmode #main .Root ._5658c6accf868644593ce36887a475b1-scss a {
+  color: #333333 !important;
+}
+.lightmode #main .Root ._2e45faf0d8122a862407df7f7e25e3c3-scss:hover {
+  background-color: #F8F8F8;
+}
+.lightmode #main .Root .e58ef5d8309b5a560acc7801979973ab-scss {
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.lightmode #main .Root .bff8867ee69a86428f5d4d1c9cbb6e68-scss {
+  background-color: #F8F8F8;
+  box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.lightmode #main .Root .bff8867ee69a86428f5d4d1c9cbb6e68-scss svg {
+  stroke: #CDCDCD;
+}
+.lightmode #main .Root ._47437f9a9dd2eb6b3960051e2dd7738f-scss {
+  box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.lightmode .mo-meta a:link:link, .lightmode .mo-meta a:link:visited, .lightmode .mo-meta a:visited:link, .lightmode .mo-meta a:visited:visited {
+  color: #4D4D4D;
+}
+.lightmode .cover-art {
+  background-color: #F8F8F8;
+}
+.lightmode .progress-bar .progress-bar__bg {
+  background-color: #CDCDCD;
+}
+.lightmode .CreatePlaylistButton {
+  color: #333333;
+}
+.lightmode .react-contextmenu {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+.lightmode .react-contextmenu .react-contextmenu-item.active, .lightmode .react-contextmenu .react-contextmenu-item:hover {
+  color: #000000;
+  background-color: #F8F8F8;
+  border-color: #F8F8F8;
+}
+.lightmode .SearchInputBox {
+  background-color: #ffffff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+.lightmode .SearchInputBox .SearchInputBox__input {
+  color: #333333;
+}
+.lightmode .RootlistItem__link:link, .lightmode .RootlistItem__link:visited {
+  color: #808080;
+}
+.lightmode .RootlistItem__link:active {
+  color: #4D4D4D;
+}
+.lightmode .Root__nav-bar {
+  background-color: #ffffff;
+}
+.lightmode .Root__nav-bar .navBar-link--active {
+  color: #000000;
+}
+.lightmode .Root__nav-bar .navBar-link--active:focus, .lightmode .Root__nav-bar .navBar-link--active:hover {
+  color: #000000;
+}
+.lightmode .Root__now-playing-bar {
+  background-color: #F8F8F8;
+}
+.lightmode .Root__now-playing-bar .now-playing-bar-container {
+  background-color: #F8F8F8;
+  border-top: 1px solid #808080;
+}
+.lightmode .Root__now-playing-bar .now-playing-bar-container .control-button {
+  color: #808080;
+}
+.lightmode .Root__now-playing-bar .now-playing-bar-container .control-button:hover, .lightmode .Root__now-playing-bar .now-playing-bar-container .control-button:focus {
+  color: #000000;
+}
+.lightmode .Root__now-playing-bar .now-playing-bar-container .control-button.control-button--circled:after {
+  border: 1px solid rgba(77, 77, 77, 0.6);
+}
+
+html.macOS ::webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+/*# sourceMappingURL=style.css.map */

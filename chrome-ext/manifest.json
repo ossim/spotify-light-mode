@@ -1,0 +1,12 @@
+  {
+    "name": "Spotify Light Mode",
+    "version": "0.0.1",
+    "description": "An eye-catching, attractive light mode option for Spotify webplayer.",
+    "manifest_version": 2,
+
+    "content_scripts": [{
+        "css": ["style.css"],
+        "js": ["script.js"],
+        "matches": ["https://open.spotify.com/*"]
+    }]
+  }
