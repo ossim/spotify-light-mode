@@ -96,6 +96,15 @@ body.lightmode {
 .lightmode .SearchInputBox .SearchInputBox__input {
   color: #333333;
 }
+.lightmode header.artist-header .monthly-listeners {
+  color: #1A1A1A;
+}
+.lightmode header.artist-header:before {
+  background: linear-gradient(transparent -30%, #ffffff);
+}
+.lightmode .content.artist .artist-appears-on, .lightmode .content.artist .artist-music, .lightmode .content.artist .artist-singles, .lightmode .content.artist .related-artists, .lightmode .content.artist .ArtistAbout__container {
+  background-color: #ffffff;
+}
 .lightmode .RootlistItem__link:link, .lightmode .RootlistItem__link:visited {
   color: #808080;
 }

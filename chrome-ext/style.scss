@@ -158,6 +158,23 @@ body.lightmode {
     }
   }
 
+  header.artist-header {
+
+    .monthly-listeners {
+      color: $gray-10;
+    }
+
+    &:before {
+    background: linear-gradient(transparent -30%, $white);
+    }
+  }
+
+  .content.artist {
+    .artist-appears-on, .artist-music, .artist-singles, .related-artists, .ArtistAbout__container {
+      background-color: $white;
+    }
+  }
+
   .RootlistItem__link {
     &:link, &:visited {
       color: $gray-50;
